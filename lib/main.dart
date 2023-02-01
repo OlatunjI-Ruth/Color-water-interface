@@ -820,4 +820,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
